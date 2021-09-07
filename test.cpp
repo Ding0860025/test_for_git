@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     cout << "Hello world" << endl;
-    cout << "HI John" << endl;
+    cout << "HI Johnny" << endl;
     cout << "HI Jane" << endl;
     cout << "HI Jojo" << endl;
     cout << "new branch dev" << endl;
