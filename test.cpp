@@ -13,6 +13,5 @@ int main()
     cout << "HI Jojo" << endl;
     cout << "new branch dev" << endl;
     cout << "branch 2-2" << endl;
-    cout << "branch 2-4" << endl;
-    cout << "git reset" << endl;
+    cout << "branch 2" << endl;
 }
